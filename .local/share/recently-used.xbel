@@ -87,7 +87,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/pi/__init__.py" added="2020-08-17T20:35:39Z" modified="2020-08-18T14:04:51Z" visited="2020-08-17T20:35:40Z">
+  <bookmark href="file:///home/pi/leds_example.py" added="2020-08-18T20:57:30Z" modified="2020-08-18T20:57:30Z" visited="2020-08-18T20:57:30Z">
     <desc>Charset: UTF-8</desc>
     <info>
       <metadata owner="http://freedesktop.org">
@@ -96,7 +96,7 @@
           <bookmark:group>Mousepad</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T14:04:51Z" count="5"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T20:57:30Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
