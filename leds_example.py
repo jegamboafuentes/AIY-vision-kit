@@ -19,10 +19,10 @@ from aiy.leds import (Leds, Pattern, PrivacyLed, RgbLeds, Color)
 
 def main():
     with Leds() as leds:
-        print('RGB: Solid RED for 10 second')
+        print('RGB: Solid RED for 32 second')
         leds.update(Leds.rgb_on(Color.RED))
         leds.update(Leds.privacy_on())
-        time.sleep(31)
+        time.sleep(32)
         leds.update(Leds.privacy_off())
         print('Done')
 
