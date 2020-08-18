@@ -10,6 +10,7 @@ cd /media/pi/4GB/dominadas
 
 #start recording indicator
 python3 start_recording.py
+python3 leds_example.py
 
 # Capture 30 seconds of raw video at 640x480 and 150kB/s bit rate into a pivideo.h264 file:
 raspivid -t 33000 -w 640 -h 480 -fps 25 -b 1200000 -p 0,0,640,480 -o pivideo.h264
