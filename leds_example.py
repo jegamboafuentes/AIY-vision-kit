@@ -21,12 +21,9 @@ def main():
     with Leds() as leds:
         print('RGB: Solid RED for 10 second')
         leds.update(Leds.rgb_on(Color.RED))
-        time.sleep(10)
-
         leds.update(Leds.privacy_on())
-        time.sleep(2)
+        time.sleep(31)
         leds.update(Leds.privacy_off())
-
         print('Done')
 
 if __name__ == '__main__':
