@@ -249,3 +249,27 @@ git commit -m 'real commit online'
 git commit -am 'real commit online'
 git push
 git push -f origin master
+git submodule deinit
+git submodule deinit --all
+ls
+cd AIY-projects-python/
+git submodule deinit --all
+cd ..
+git add .
+git commit -m 'no submoduke'
+git push
+git push origin master
+ls
+cd AIY-projects-python/
+ls
+ls -al
+git add all
+git add --all
+git commit -m 'another'
+git push 
+cd ..
+git add --all
+git commit -m 
+git commit -m 'test'
+git push 
+git push origin master
