@@ -18,11 +18,11 @@ from aiy.leds import Leds, Color
 
 def main():
     with Leds() as leds:
-    for _ in range(4):
-        leds.update(Leds.rgb_on(Color.RED))
-        time.sleep(1)
-        leds.update(Leds.rgb_off())
-        time.sleep(1)
+    	for _ in range(4):
+        	leds.update(Leds.rgb_on(Color.RED))
+        	time.sleep(1)
+        	leds.update(Leds.rgb_off())
+        	time.sleep(1)
 
 if __name__ == '__main__':
     main()
