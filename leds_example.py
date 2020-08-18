@@ -18,8 +18,9 @@ from aiy.leds import Leds, Color
 
 def main():
     with Leds() as leds:
-    	for _ in range(30):
-        	leds.update(Leds.rgb_on(Color.RED))
+    	print('RGB: Solid RED for 1 second')
+        leds.update(Leds.rgb_on(Color.RED))
+        time.sleep(1)
 
 if __name__ == '__main__':
     main()
