@@ -23,6 +23,10 @@ def main():
         leds.update(Leds.rgb_on(Color.RED))
         time.sleep(10)
 
+        leds.update(Leds.privacy_on())
+        time.sleep(2)
+        leds.update(Leds.privacy_off())
+
         print('Done')
 
 if __name__ == '__main__':
