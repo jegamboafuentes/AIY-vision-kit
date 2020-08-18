@@ -19,9 +19,10 @@ from aiy.leds import (Leds, Pattern, PrivacyLed, RgbLeds, Color)
 
 def main():
     with Leds() as leds:
-        print('RGB: Solid RED for 1 second')
-        leds.update(Leds.rgb_on(Color.RED))
-        time.sleep(31)
+        
+        print('RGB: Breathe RED for 5 seconds')
+        leds.update(Leds.rgb_pattern(Color.RED))
+        time.sleep(5)
 
 if __name__ == '__main__':
     main()
