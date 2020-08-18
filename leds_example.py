@@ -12,17 +12,17 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import math
 import time
 
-from aiy.leds import (Leds, Pattern, PrivacyLed, RgbLeds, Color)
+from aiy.leds import Leds, Color
 
 def main():
     with Leds() as leds:
-        
-        print('RGB: Breathe RED for 5 seconds')
-        leds.update(Leds.rgb_pattern(Color.RED))
-        time.sleep(5)
+    for _ in range(4):
+        leds.update(Leds.rgb_on(Color.RED))
+        time.sleep(1)
+        leds.update(Leds.rgb_off())
+        time.sleep(1)
 
 if __name__ == '__main__':
     main()
