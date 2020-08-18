@@ -214,3 +214,38 @@ git config --global user.name 'Enrique Gamboa'
 git config --global user.email 'snake2209@hotmail.com'
 git push
 git push master
+git status
+cd ~/.ssh
+ls -lah
+ssh-keygen -t rsa -C "snake2209@hotmail.com"
+ls -lah
+rm keyG
+rm keyG.pub 
+ls-lah
+ls -lah
+pbcopy < ~/.ssh/id_rsa.pub
+pbcopy ~/.ssh/id_rsa.pub
+
+xclip < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+ssh -T jegamboafuentes@github.com
+cat id_rsa.pub 
+git add .
+git commit -m 'test'
+git push
+git push -u AIY-vision-kit master
+git pull
+git pull --rebase
+git commit -m 'test3'
+git add .
+git commit -m "test"
+git pull 
+git pull AIY-vision-kit master
+git push -u AIY-vision-kit master
+git push -f origin master
+git status
+git add .
+git commit -m 'real commit online'
+git commit -am 'real commit online'
+git push
+git push -f origin master
