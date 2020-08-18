@@ -21,7 +21,7 @@ def main():
     with Leds() as leds:
         print('RGB: Solid RED for 1 second')
         leds.update(Leds.rgb_on(Color.RED))
-        time.sleep(1)
+        time.sleep(31)
 
 if __name__ == '__main__':
     main()
