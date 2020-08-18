@@ -273,3 +273,28 @@ git commit -m
 git commit -m 'test'
 git push 
 git push origin master
+git add .
+git commit -m ""
+git commit -m "dd"
+git push origin master
+git pull origin master
+ls
+./leds_example.py 
+git pull origin master
+./leds_example.py 
+git pull origin master
+./leds_example.py 
+git pull origin master
+./33_sec_videoRecord_dominadas.sh 
+ls
+python3 leds_example.py 
+git pull origin master
+python3 leds_example.py 
+./33_sec_videoRecord_dominadas.sh 
+python3 leds_example.py 
+git pull origin master
+./leds_example.py 
+./33_sec_videoRecord_dominadas.sh 
+git pull origin master
+./33_sec_videoRecord_dominadas.sh 
+sudo reboot
