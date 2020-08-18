@@ -217,3 +217,71 @@ Unit pt-device-manager.service could not be found.
 ** Message: 08:54:43.547: wlan0: Received scan results
 ** Message: 08:55:43.558: wlan0: Received scan results
 ** Message: 08:56:43.557: wlan0: Received scan results
+** Message: 08:57:43.550: wlan0: Received scan results
+** Message: 08:58:43.550: wlan0: Received scan results
+** Message: 08:59:43.554: wlan0: Received scan results
+** Message: 09:00:43.551: wlan0: Received scan results
+** Message: 09:01:43.556: wlan0: Received scan results
+** Message: 09:02:43.552: wlan0: Received scan results
+** Message: 09:03:43.556: wlan0: Received scan results
+** Message: 09:04:43.559: wlan0: Received scan results
+** Message: 09:05:43.555: wlan0: Received scan results
+** Message: 09:06:43.561: wlan0: Received scan results
+** Message: 09:07:43.556: wlan0: Received scan results
+** Message: 09:08:43.572: wlan0: Received scan results
+** Message: 09:09:43.578: wlan0: Received scan results
+** Message: 09:10:43.577: wlan0: Received scan results
+** Message: 09:11:43.564: wlan0: Received scan results
+** Message: 09:12:43.571: wlan0: Received scan results
+** Message: 09:13:43.570: wlan0: Received scan results
+** Message: 09:14:43.573: wlan0: Received scan results
+** Message: 09:15:43.571: wlan0: Received scan results
+** Message: 09:16:43.573: wlan0: Received scan results
+** Message: 09:17:43.570: wlan0: Received scan results
+** Message: 09:18:43.576: wlan0: Received scan results
+** Message: 09:19:43.576: wlan0: Received scan results
+** Message: 09:20:43.574: wlan0: Received scan results
+** Message: 09:21:43.575: wlan0: Received scan results
+** Message: 09:22:43.574: wlan0: Received scan results
+** Message: 09:23:43.573: wlan0: Received scan results
+** Message: 09:24:43.584: wlan0: Received scan results
+** Message: 09:25:43.574: wlan0: Received scan results
+** Message: 09:26:43.570: wlan0: Received scan results
+** Message: 09:27:43.585: wlan0: Received scan results
+** Message: 09:28:43.581: wlan0: Received scan results
+** Message: 09:29:43.591: wlan0: Received scan results
+** Message: 09:30:43.585: wlan0: Received scan results
+** Message: 09:31:43.580: wlan0: Received scan results
+** Message: 09:32:43.582: wlan0: Received scan results
+** Message: 09:33:43.588: wlan0: Received scan results
+** Message: 09:34:43.588: wlan0: Received scan results
+** Message: 09:35:43.591: wlan0: Received scan results
+** Message: 09:36:43.587: wlan0: Received scan results
+** Message: 09:37:43.590: wlan0: Received scan results
+** Message: 09:38:43.598: wlan0: Received scan results
+** Message: 09:39:43.591: wlan0: Received scan results
+** Message: 09:40:43.600: wlan0: Received scan results
+** Message: 09:41:43.593: wlan0: Received scan results
+** Message: 09:42:43.597: wlan0: Received scan results
+** Message: 09:43:43.598: wlan0: Received scan results
+** Message: 09:44:43.599: wlan0: Received scan results
+** Message: 09:45:43.600: wlan0: Received scan results
+** Message: 09:46:43.612: wlan0: Received scan results
+** Message: 09:47:43.601: wlan0: Received scan results
+** Message: 09:48:43.596: wlan0: Received scan results
+** Message: 09:49:43.603: wlan0: Received scan results
+** Message: 09:50:43.613: wlan0: Received scan results
+** Message: 09:51:43.600: wlan0: Received scan results
+** Message: 09:52:43.614: wlan0: Received scan results
+
+(mousepad:1665): Gtk-WARNING **: 09:53:42.451: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1665): Gtk-WARNING **: 09:53:42.452: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1665): Gtk-WARNING **: 09:53:42.453: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1665): Gtk-WARNING **: 09:53:42.454: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1665): Gtk-WARNING **: 09:53:42.455: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+** Message: 09:53:43.712: wlan0: Received scan results
+** Message: 09:54:43.615: wlan0: Received scan results

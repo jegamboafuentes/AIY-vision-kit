@@ -197,3 +197,20 @@ clear
 sudo shutdown
 ./leds_example.py 
 ./button_led
+ls
+sudo apt install git
+git init
+git add .
+git commit -m "first commit to my aiy vision kit'
+
+git commit --m "first commit to my aiy vision kit'
+
+git commit -m "first commit to my aiy vision kit"
+git config --global user.'snake2209@hotmail.com'
+git.gonfig --global user.name 'Enrique Gamboa'
+git config --global user.email 'snake2209@hotmail.com'
+git gonfig --global user.name 'Enrique Gamboa'
+git config --global user.name 'Enrique Gamboa'
+git config --global user.email 'snake2209@hotmail.com'
+git push
+git push master
