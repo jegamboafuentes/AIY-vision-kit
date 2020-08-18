@@ -14,6 +14,8 @@
 # limitations under the License.
 import math
 import time
+import sys
+sys.path.append('/home/pi/AIY-projects-python/src/aiy')
 
 from aiy.leds import (Leds, Pattern, PrivacyLed, RgbLeds, Color)
 
