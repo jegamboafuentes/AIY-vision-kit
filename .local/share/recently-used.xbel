@@ -101,7 +101,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/pi/.gitignore" added="2020-08-18T22:40:18Z" modified="2020-08-18T22:41:27Z" visited="2020-08-18T22:40:18Z">
+  <bookmark href="file:///home/pi/.gitignore" added="2020-08-18T22:40:18Z" modified="2020-08-18T22:43:30Z" visited="2020-08-18T22:40:18Z">
     <desc>Charset: UTF-8</desc>
     <info>
       <metadata owner="http://freedesktop.org">
@@ -110,7 +110,7 @@
           <bookmark:group>Mousepad</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T22:41:27Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T22:43:30Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>

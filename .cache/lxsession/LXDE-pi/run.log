@@ -227,3 +227,16 @@ Unit pt-device-manager.service could not be found.
 
 (mousepad:1568): Gtk-WARNING **: 18:41:26.968: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
 ** Message: 18:41:28.606: wlan0: Received scan results
+** Message: 18:42:28.606: wlan0: Received scan results
+** Message: 18:43:28.600: wlan0: Received scan results
+
+(mousepad:1602): Gtk-WARNING **: 18:43:29.885: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1602): Gtk-WARNING **: 18:43:29.886: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1602): Gtk-WARNING **: 18:43:29.887: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1602): Gtk-WARNING **: 18:43:29.889: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:1602): Gtk-WARNING **: 18:43:29.890: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+** Message: 18:44:28.604: wlan0: Received scan results
