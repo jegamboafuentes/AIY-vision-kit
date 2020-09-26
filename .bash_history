@@ -298,3 +298,107 @@ git pull origin master
 git pull origin master
 ./33_sec_videoRecord_dominadas.sh 
 sudo reboot
+git pull origin master
+./33_sec_videoRecord_dominadas.sh 
+ls
+./leds_example.py 
+./33_sec_videoRecord_dominadas.sh 
+git add .
+git commit -m "led worig while recording"
+git push origin master
+git status
+ls -all
+.gitignore
+open .gitignore
+git status
+git add .
+git add -all
+git add --all
+git commit -m ""
+git commit -m ".gitignore"
+git push origin master
+git status
+git add --all
+git commit -m ".gitignore"
+git push origin master
+git status
+./33_sec_videoRecord_dominadas.sh 
+sudo shutdown
+raspivid -o vid.h264
+sudo systemctl stop joy_detection_demo
+raspivid 
+raspivid -o vid.h264
+./33_sec_videoRecord_dominadas.sh 
+ls
+cd dominadas/
+ls
+git clone https://github.com/google/automl-video-ondevice
+cd automl-video-ondevice/
+python3 examples/video_file_demo.py --model=data/traffic_model.tflite
+python3 examples/video_file_demo.py --model=data/traffic_model.pb
+pip3 install opencv-contrib-python --pi
+pip3 install opencv-contrib-python
+python3 examples/video_file_demo.py --model=data/traffic_model.tflite
+pip3 install opencv-contrib-python
+python3 examples/video_file_demo.py --model=data/traffic_model.pb
+sudo apt-get install python3-opencv
+python3 examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+ls
+cd dominadas/
+ls
+cd automl-video-ondevice/
+python3 examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+sudo apt-get install libcblas-dev
+sudo apt-get install libhdf5-dev
+python3 examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+sudo apt-get install libcblas-dev
+sudo apt-get install libhdf5-dev
+sudo apt-get install libhdf5-serial-dev
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libjasper-dev
+sudo apt-get install libqtgui4 
+sudo apt-get install libqt4-test
+python3 examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+sudo raspi-config
+c..
+d ..
+cd ..
+sudo raspi-config
+./face_detection_camera.py 
+clear
+./face_detection_camera.py 
+./face_detection_raspivid.py 
+sudo apt-get update
+sudo apt-get install git
+sudo apt-get install python3-opencv
+pip3 install numpy
+ls
+git clone https://github.com/google/automl-video-ondevice
+ls
+cd automl-video-ondevice/
+python3 examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+python examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+./examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+sudo ./examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+cd ..
+pip3 install opencv-contrib-python --pi
+pip3 install opencv-contrib-python --user
+cd automl-video-ondevice
+python3 examples/video_file_demo.py --model=data/traffic_model.tflite
+python3 examples/video_file_demo.py --model=data/traffic_model.pb
+cd ..
+pip3 install https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-cp37m-linux_armv7l.whl
+pip3 uninstall opencv-python
+pip3 install opencv-python==3.4.6.27
+cd automl-video-ondevice
+python3 examples/video_file_demo.py --model=data/traffic_model_edgetpu.tflite
+python3 examples/video_file_demo.py --model=data/traffic_model.tflite
+python3 examples/video_file_demo.py --model=data/traffic_model.pb
+cd ..
+pip3 install tensorflow==1.14
+cls
+clear
+ls
+cd automl-video-ondevice/
+python3 examples/video_file_demo.py --model=data/traffic_model.tflite
+python3 examples/video_file_demo.py --model=data/traffic_model.pb
